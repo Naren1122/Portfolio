@@ -131,7 +131,7 @@ export default function HeroSection() {
           />
           <img
             id="avatar-image"
-            src="IMG20260520084518.jpg"
+            src="/IMG20260520084518.jpg"
             alt="Narenn Maharjan"
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             referrerPolicy="no-referrer"
