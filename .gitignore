@@ -6,4 +6,3 @@ coverage/
 *.log
 .env*
 !.env.example
-IMG20260520084518.jpg
