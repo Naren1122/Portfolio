@@ -33,6 +33,8 @@ export const SKILLS: string[] = [
   "RESTful APIs",
   "Node.js",
   "Express.js",
+  "Docker",
+  "GraphQL",
   "C",
   "C++",
   "Python",
